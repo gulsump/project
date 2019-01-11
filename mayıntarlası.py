@@ -1,5 +1,7 @@
-import tkinter, configparser, random, os, tkinter.messagebox, tkinter.simpledialog
-
+import tkinter, tkinter.messagebox, tkinter.simpledialog
+import configparser
+import random
+import os
 window = tkinter.Tk()
 
 window.title("Minesweeper")
